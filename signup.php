@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/su.css">
+<link rel="stylesheet" href="su.css">
 </head>
 <body>
 <div class="container">
 <form action="rAction.php" method="post" enctype="multipart/form-data">
-  <h1><img src="img/deped.png" alt="DepEd" width="175px" height="140px"></h1>
+  <h1><img src="deped.png" alt="DepEd" width="175px" height="140px"></h1>
   <form id="signup-form">
     <div class="form-group">
       <input type="text" name="fname" placeholder="First Name" required>
