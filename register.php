@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration Successful</title>
-    <link rel="stylesheet" href="css/reg.css">
+    <link rel="stylesheet" href="reg.css">
 </head>
 <body>
     <div class="container">
-        <h1><img src="img/check.gif" alt="check" width="175px" height="175px"></h1>
+        <h1><img src="check.gif" alt="check" width="175px" height="175px"></h1>
         <div class="success-message">
             <h2>Registration Successful!</h2>
             <p>Congratulations! Your account has been created successfully.</p>  
