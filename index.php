@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Management System</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="">Students</a></li>
+        <li><a href="admin_login.php">Login</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="bg-image"></div>
+  <div class="bg-text">
+  <h1 style="font-size:60px">Welcome to the Student Management System</h1>
+  <br>
+  <p>This system allows you to manage students, their information, grades, etc.</p>
+  <br>
+  <a href="signup.php" class="button">Get Started</a>
+</div>
+</body>
+</html>
